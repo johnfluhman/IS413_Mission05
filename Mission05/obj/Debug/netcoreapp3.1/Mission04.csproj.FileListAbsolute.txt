@@ -1,0 +1,158 @@
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Mission04.deps.json
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Mission04.runtimeconfig.json
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Mission04.runtimeconfig.dev.json
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Mission04.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Mission04.pdb
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Mission04.Views.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Mission04.Views.pdb
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.csproj.AssemblyReference.cache
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.AssemblyInfoInputs.cache
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.AssemblyInfo.cs
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.csproj.CoreCompileInputs.cache
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.MvcApplicationPartsAssemblyInfo.cache
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.RazorAssemblyInfo.cache
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.RazorAssemblyInfo.cs
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/staticwebassets/Mission04.StaticWebAssets.Manifest.cache
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/staticwebassets/Mission04.StaticWebAssets.xml
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/scopedcss/bundle/Mission04.styles.css
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.TagHelpers.input.cache
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.TagHelpers.output.cache
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.RazorCoreGenerate.cache
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Razor/Views/Home/MovieForm.cshtml.g.cs
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Razor/Views/Home/MyPodcasts.cshtml.g.cs
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.RazorTargetAssemblyInfo.cache
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.RazorTargetAssemblyInfo.cs
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.Views.pdb
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.pdb
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.genruntimeconfig.cache
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.csproj.CopyComplete
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/johnfluhman/Desktop/School/Winter 2022/IS413/Mission04/Mission04/obj/Debug/netcoreapp3.1/Razor/Views/Home/Confirmation.cshtml.g.cs
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Mission04.deps.json
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Mission04.runtimeconfig.json
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Mission04.runtimeconfig.dev.json
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Mission04.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Mission04.pdb
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Mission04.Views.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Mission04.Views.pdb
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.csproj.AssemblyReference.cache
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.AssemblyInfoInputs.cache
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.AssemblyInfo.cs
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.csproj.CoreCompileInputs.cache
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.MvcApplicationPartsAssemblyInfo.cache
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.RazorAssemblyInfo.cache
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.RazorAssemblyInfo.cs
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/staticwebassets/Mission04.StaticWebAssets.Manifest.cache
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/staticwebassets/Mission04.StaticWebAssets.xml
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/scopedcss/bundle/Mission04.styles.css
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.TagHelpers.input.cache
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.TagHelpers.output.cache
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.RazorCoreGenerate.cache
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Razor/Views/Home/Confirmation.cshtml.g.cs
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Razor/Views/Home/MovieForm.cshtml.g.cs
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Razor/Views/Home/MyPodcasts.cshtml.g.cs
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.RazorTargetAssemblyInfo.cache
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.RazorTargetAssemblyInfo.cs
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.Views.pdb
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.csproj.CopyComplete
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.dll
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.pdb
+/Users/johnfluhman/Documents/GitHub/IS413Mission04/Mission04/obj/Debug/netcoreapp3.1/Mission04.genruntimeconfig.cache

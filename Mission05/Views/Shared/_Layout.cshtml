@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Mission04</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</head>
+<body>
+    <nav>
+        <a class="btn" asp-action="Index">Home</a>
+        <a class="btn" asp-action="MyPodcasts">My Podcasts</a>
+        <a class="btn" asp-action="MovieForm">Movie Submission Form</a>
+        <a class="btn" asp-action="MovieList">Movie List</a>
+    </nav>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>
